@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="#8b5cf6"/>
+  <g fill="white">
+    <!-- Document background -->
+    <rect x="20" y="15" width="50" height="35" rx="4" fill="white"/>
+    <rect x="15" y="25" width="50" height="45" rx="4" fill="white"/>
+    
+    <!-- Profile circle -->
+    <circle cx="30" cy="45" r="8" fill="none" stroke="#8b5cf6" stroke-width="2"/>
+    
+    <!-- Profile body -->
+    <path d="M20 60 Q20 52 30 52 Q40 52 40 60 L40 65 Q40 67 38 67 L22 67 Q20 67 20 65 Z" fill="none" stroke="#8b5cf6" stroke-width="2"/>
+    
+    <!-- Lines -->
+    <rect x="50" y="50" width="10" height="2" fill="#8b5cf6"/>
+    <rect x="50" y="55" width="8" height="2" fill="#8b5cf6"/>
+  </g>
+</svg>
